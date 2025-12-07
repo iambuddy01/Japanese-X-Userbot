@@ -1,6 +1,6 @@
 #MIT License
 
-#Copyright (c) 2024 Japanese-X-Userbot
+#Copyright (c) 2024 deleted-account
 
 #Permission is hereby granted, free of charge, to any person obtaining a copy
 #of this software and associated documentation files (the "Software"), to deal
@@ -21,10 +21,6 @@
 #SOFTWARE.
 
 
-#Credit Bye Geez|Ram
-#Thanks To All Dev
-
-#REMAKE BY NOBITA XD AND TRYTOLIVEALONE 
 
 
 
@@ -50,7 +46,7 @@ async def _callbacks(_, callback_query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(buttons),
         )
     elif query == "close":
-        await app.edit_inline_text(callback_query.inline_message_id, "**— CLOSED**")
+        await app.edit_inline_text(callback_query.inline_message_id, "**CLOSED**")
         return
     elif query == "close_help":
         if callback_query.from_user.id not in users:
@@ -91,9 +87,9 @@ async def on_plug_in_cb(_, callback_query: CallbackQuery):
     this_command = f"──「 **Help For {str(modul_name).upper()}** 」──\n\n"
     for x in commands:
         this_command += f"  •  **Command:** `.{str(x)}`\n  •  **Function:** `{str(commands[x])}`\n\n"
-    this_command += "© @Nobitaa_xd"
+    this_command += "© #deleted_account"
     bttn = [
-        [InlineKeyboardButton(text="•─╼⃝𖠁 ʀᴇᴛᴜʀɴ 𖠁⃝╾─•", callback_data="reopen")],
+        [InlineKeyboardButton(text="• ʀᴇᴛᴜʀɴ •", callback_data="reopen")],
     ]
     reply_pop_up_alert = (
         this_command
