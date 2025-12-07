@@ -1,17 +1,17 @@
 <p align="center">
     <b> ᴠɪsɪᴛᴏʀs </b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/Japanese-X-Userbot/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/deleted-account/count.svg" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=ωσяℓ∂+ℓαяgεsт+αη∂+ғαsтεsт+υsεявσт;ηεvεя+εxιsтε∂+ιη+тнιs+ωσяℓ∂+вεғσяε;+𝐉𝐀𝐏𝐀𝐍𝐄𝐒𝐄+𝐗+𝐔𝐒𝐄𝐑𝐁𝐎𝐓❤️✨+%E2%9D%A4%EF%B8%8F">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=ᴡᴏʀʟᴅ+ʟᴀʀɢᴇsᴛ+ᴀɴᴅ+ғᴀsᴛᴇsᴛ+ᴜsᴇʀʙᴏᴛ;ɴᴇᴠᴇʀ+ᴇxɪsᴛᴇᴅ+ɪɴ+ᴛʜɪs+ᴡᴏʀʟᴅ+ʙᴇғᴏʀᴇ;+𝐃𝐄𝐋𝐄𝐓𝐄𝐃+𝐀𝐂𝐂𝐎𝐔𝐍𝐓❤️✨+%E2%9D%A4%EF%B8%8F">
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="center">𝐉𝐀𝐏𝐀𝐍𝐄𝐒𝐄-𝐗-𝐔𝐒𝐄𝐑𝐁𝐎𝐓</h1>
+<h1 align="center">𝐃𝐄𝐋𝐄𝐓𝐄𝐃-𝐀𝐂𝐂𝐎𝐔𝐍𝐓</h1>
 
 
 <p align="center">
-  <img src="https://graph.org/file/ddd1f597a25610e24d4e5.jpg">
+  <img src="https://files.catbox.moe/djqewp.jpg">
 </p>
 
 
@@ -20,11 +20,11 @@
 
 
 <p align="center">
-<a href="https://github.com/Team-Japanese/Japanese-X-Userbot/stargazers"><img src="https://img.shields.io/github/stars/Team-Japanese/Japanese-X-Userbot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/Team-Japanese/Japanese-X-Userbot/network/members"> <img src="https://img.shields.io/github/forks/Team-Japanese/Japanese-X-Userbot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/Team-Japanese/Japanese-X-Userbot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
-<a href="https://github.com/Team-Japanese/Japanese-X-Chatbot"> <img src="https://img.shields.io/github/repo-size/Team-Japanese/Japanese-X-Userbot?color=white&logo=github&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/nobitaaaxd/Team-Japanese/Japanese-X-Userbot/commits/aboutnobitaaxd"> <img src="https://img.shields.io/github/last-commit/Team-Japanese/Japanese-X-Userbot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/karmaxexclusive/deleted-account/stargazers"><img src="https://img.shields.io/github/stars/karmaxexclusive/deleted-account?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/karmaxexclusive/deleted-account/network/members"> <img src="https://img.shields.io/github/forks/karmaxexclusive/deleted-account?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/karmaxexclusive/deleted-account/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/karmaxexclusive"> <img src="https://img.shields.io/github/repo-size/Team-Japanese/Japanese-X-Userbot?color=white&logo=github&logoColor=blue&style=for-the-badge" /></a>
+<a href="https://github.com/karmaxexclusive/deleted-account/commits/aboutnobitaaxd"> <img src="https://img.shields.io/github/last-commit/karmaxexclusive/deleted-account?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 </p>
 
 
@@ -46,9 +46,9 @@
 
 ## 𝑫𝒆𝒑𝒍𝒐𝒚 𝑻𝒐 𝑯𝒆𝒓𝒐𝒌𝒖
 
-𝑭𝒐𝒍𝒍𝒐𝒘 𝒕𝒉𝒆𝒔𝒆 𝒔𝒕𝒆𝒑𝒔 𝒕𝒐 𝒅𝒆𝒑𝒍𝒐𝒚 𝑱𝒂𝒑𝒂𝒏𝒆𝒔𝒆-𝑿-𝑼𝒔𝒆𝒓𝒃𝒐𝒕 𝒐𝒏 𝑯𝒆𝒓𝒐𝒌𝒖:
+𝑭𝒐𝒍𝒍𝒐𝒘 𝒕𝒉𝒆𝒔𝒆 𝒔𝒕𝒆𝒑𝒔 𝒕𝒐 𝒅𝒆𝒑𝒍𝒐𝒚 𝑫𝒆𝒍𝒆𝒕𝒆𝒅 𝑨𝒄𝒄𝒐𝒖𝒏𝒕 𝒐𝒏 𝑯𝒆𝒓𝒐𝒌𝒖:
 
-1. **𝑭𝒐𝒓𝒌 & 𝑺𝒕𝒂𝒓 𝒕𝒉𝒊𝒔 [𝑹𝒆𝒑𝒐](https://github.com/Team-Japanese/Japanese-X-Userbot) :**
+1. **𝑭𝒐𝒓𝒌 & 𝑺𝒕𝒂𝒓 𝒕𝒉𝒊𝒔 [𝑹𝒆𝒑𝒐](https://github.com/karmaxexclusive/deleted-account) :**
     
 2. **𝑯𝒆𝒓𝒐𝒌𝒖 𝑨𝒄𝒄𝒐𝒖𝒏𝒕 𝑳𝒐𝒈𝒊𝒏 :**
   
@@ -59,7 +59,7 @@
 4. **𝑭𝒊𝒍𝒍 𝑹𝒆𝒒𝒖𝒊𝒓𝒆𝒅 𝑽𝒂𝒓𝒊𝒂𝒃𝒍𝒆𝒔 :**
   
 
-<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/iambuddy01/Japanese-X-Userbot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/iambuddy01/deleted-account"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 # 𝑫𝑰𝑺𝑪𝑳𝑨𝑰𝑴𝑬𝑹
