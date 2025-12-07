@@ -1,6 +1,6 @@
 #MIT License
 
-#Copyright (c) 2024 Japanese-X-Userbot
+#Copyright (c) 2024 deleted-account
 
 #Permission is hereby granted, free of charge, to any person obtaining a copy
 #of this software and associated documentation files (the "Software"), to deal
@@ -20,16 +20,6 @@
 #OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 #SOFTWARE.
 
-# Credits: @mrismanaziz
-# Copyright (C) 2022 Pyro-ManUserbot
-#
-# This file is a part of < https://github.com/mrismanaziz/PyroMan-Userbot/ >
-# PLease read the GNU Affero General Public License in
-# <https://www.github.com/mrismanaziz/PyroMan-Userbot/blob/main/LICENSE/>.
-#
-# t.me/SharingUserbot & t.me/Lunatic0de
-
-#REMAKE BY NOBITA XD AND TRYTOLIVEALONE 
 
 
 
@@ -77,13 +67,13 @@ async def module_help(client: Client, message: Message):
             print(f"{e}")
             ac = PrettyTable()
             ac.header = False
-            ac.title = "𝐉𝐀𝐏𝐀𝐍𝐄𝐒𝐄-𝐗-𝐔𝐒𝐄𝐑𝐁𝐎𝐓 𝐏𝐋𝐔𝐆𝐈𝐍𝐒"
+            ac.title = "ᴜsᴇʀʙᴏᴛ ᴘʟᴜɢɪɴs"
             ac.align = "l"
             for x in split_list(sorted(CMD_HELP.keys()), 2):
                 ac.add_row([x[0], x[1] if len(x) >= 2 else None])
             xx = await client.send_message(
                 message.chat.id,
-                f"```{str(ac)}```\n• Mᴏᴅᴜʟᴇꜱ Pʀᴏᴠɪᴅᴇᴅ Bʏ 𝐉𝐀𝐏𝐀𝐍𝐄𝐒𝐄-𝐗-𝐔𝐒𝐄𝐑𝐁𝐎𝐓•",
+                f"```{str(ac)}```\n• #deleted_account •",
                 reply_to_message_id=ReplyCheck(message),
             )
             await xx.reply(
@@ -97,7 +87,7 @@ async def module_help(client: Client, message: Message):
             this_command = f"──「 **Help For {str(help_arg).upper()}** 」──\n\n"
             for x in commands:
                 this_command += f"  •  **Command:** `.{str(x)}`\n  •  **Function:** `{str(commands[x])}`\n\n"
-            this_command += "Mᴏᴅᴜʟᴇꜱ Pʀᴏᴠɪᴅᴇᴅ Bʏ 𝐉𝐀𝐏𝐀𝐍𝐄𝐒𝐄-𝐗-𝐔𝐒𝐄𝐑𝐁𝐎𝐓 "
+            this_command += "© #deleted-account"
             await edit_or_reply(
                 message, this_command, parse_mode=enums.ParseMode.MARKDOWN
             )
@@ -121,12 +111,12 @@ async def module_helper(client: Client, message: Message):
     elif not message.reply_to_message and len(cmd) == 1:
         ac = PrettyTable()
         ac.header = False
-        ac.title = "𝐉𝐀𝐏𝐀𝐍𝐄𝐒𝐄-𝐗-𝐔𝐒𝐄𝐑𝐁𝐎𝐓 𝐏𝐋𝐔𝐆𝐈𝐍𝐒"
+        ac.title = "ᴜsᴇʀʙᴏᴛ ᴘʟᴜɢɪɴs"
         ac.align = "l"
         for x in split_list(sorted(CMD_HELP.keys()), 2):
             ac.add_row([x[0], x[1] if len(x) >= 2 else None])
         await edit_or_reply(
-            message, f"```{str(ac)}```\n• @Japanese_Userbot_Support × Mᴏᴅᴜʟᴇꜱ Pʀᴏᴠɪᴅᴇᴅ Bʏ 𝐉𝐀𝐏𝐀𝐍𝐄𝐒𝐄-𝐗-𝐔𝐒𝐄𝐑𝐁𝐎𝐓 •"
+            message, f"```{str(ac)}```\n• #deleted-account•"
         )
         await message.reply(
             f"**Usage**:`.help broadcast` **To View Module details**"
@@ -138,7 +128,7 @@ async def module_helper(client: Client, message: Message):
             this_command = f"──「 **Help For {str(help_arg).upper()}** 」──\n\n"
             for x in commands:
                 this_command += f"  •  **Command:** `.{str(x)}`\n  •  **Function:** `{str(commands[x])}`\n\n"
-            this_command += "Mᴏᴅᴜʟᴇꜱ Pʀᴏᴠɪᴅᴇᴅ Bʏ 𝐉𝐀𝐏𝐀𝐍𝐄𝐒𝐄-𝐗-𝐔𝐒𝐄𝐑𝐁𝐎𝐓"
+            this_command += "© #deleted-account"
             await edit_or_reply(
                 message, this_command, parse_mode=enums.ParseMode.MARKDOWN
             )
