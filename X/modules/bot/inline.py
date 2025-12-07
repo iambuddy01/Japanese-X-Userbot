@@ -1,6 +1,6 @@
 #MIT License
 
-#Copyright (c) 2024 Japanese-X-Userbot
+#Copyright (c) 2024 deleted-account
 
 #Permission is hereby granted, free of charge, to any person obtaining a copy
 #of this software and associated documentation files (the "Software"), to deal
@@ -20,10 +20,6 @@
 #OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 #SOFTWARE.
 
-#Credit Bye Geez|Ram
-#Thanks To All Dev
-
-#REMAKE BY NOBITA XD AND TRYTOLIVEALONE 
 
 
 import time
@@ -80,21 +76,21 @@ async def get_readable_time(seconds: int) -> str:
 async def alive_function(message: Message, answers):
     uptime = await get_readable_time((time.time() - StartTime))
     msg = f"""
-<b> — Hi, I'm Alive.</b>
+<b> — ʜɪ, ɪ'ᴍ ᴅᴇʟᴇᴛᴇᴅ ᴀᴄᴄᴏᴜɴᴛ.</b>
 
-<b> • 𝙼𝚈 𝙼𝙰𝚂𝚃𝙴𝚁 :</b> {message.from_user.mention}
-<b> • 𝙼𝙾𝙳𝚄𝙻𝙴𝚂 :</b> <code>{len(CMD_HELP)} Modules</code>
-<b> • 𝙿𝚈𝚃𝙷𝙾𝙽 𝚅𝙴𝚁𝚂𝙸𝙾𝙽:</b> <code>{pyver.split()[0]}</code>
-<b> • 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼 𝚅𝙴𝚁𝚂𝙸𝙾𝙽 :</b> <code>{pyrover}</code>
-<b> • 𝙱𝙾𝚃 𝚄𝙿𝚃𝙸𝙼𝙴 :</b> <code>{uptime}</code>
+<b> • ᴍʏ ᴍᴀsᴛᴇʀ:</b> {message.from_user.mention}
+<b> • ᴍᴏᴅᴜʟᴇs:</b> <code>{len(CMD_HELP)} Modules</code>
+<b> • ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ:</b> <code>{pyver.split()[0]}</code>
+<b> • ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ:</b> <code>{pyrover}</code>
+<b> • ʙᴏᴛ ᴛɪᴍᴇ:</b> <code>{uptime}</code>
 
 <b> — 𝙱𝙾𝚃 𝚅𝙴𝚁𝚂𝙸𝙾𝙽 : 1.0</b>
 """
     answers.append(
         InlineQueryResultArticle(
             title="alipp",
-            description="Check Bot's Stats",
-            thumb_url="https://graph.org/file/83978974fe5be2da118d7.jpg",
+            description="ᴄʜᴇᴄᴋ ʙᴏᴛ's sᴛᴀᴛs",
+            thumb_url="https://files.catbox.moe/djqewp.jpg",
             input_message_content=InputTextMessageContent(
                 msg, parse_mode=ParseMode.HTML, disable_web_page_preview=True
             ),
@@ -112,16 +108,16 @@ async def pingme(client: Client, message: Message):
     end = datetime.now()
     duration = (end - start).microseconds / 1000
     await message.reply_text(
-        f"❏ **PONG!!🏓**\n"
-        f"├• **Pinger** - `%sms`\n"
-        f"├• **Uptime -** `{uptime}` \n"
-        f"└• **Owner :** {client.me.mention}" % (duration)
+        f"❏ **ᴘɪɴɢ ᴘᴏɴɢ 🏓**\n"
+        f"├• **📡 ᴘɪɴɢ:** `%sms`\n"
+        f"├• **⌚ ᴜᴘᴛɪᴍᴇ** `{uptime}` \n"
+        f"└• **💻 ᴍᴀsᴛᴇʀ:** {client.me.mention}" % (duration)
     )
 
 async def peler_function(message: Message, answers):
     msg = (
-        f"Japanese-X-Userbot \n"
-        "ㅤㅤStatus : Japanese-X-Userbot Active \n"
+        f"Deleted Account \n"
+        "ㅤㅤStatus : Userbot Active \n"
         f"ㅤㅤㅤㅤModules:</b> <code>{len(modules)} Modules</code> \n"
         f"ㅤㅤㅤㅤBot Version: {BOT_VER} \n"
         f"ㅤㅤㅤㅤBranch: {branch} \n\n"
@@ -129,13 +125,13 @@ async def peler_function(message: Message, answers):
     answers.append(
         InlineQueryResultArticle(
             title="alive",
-            description="Check Bot's Stats",
-            thumb_url="https://graph.org/file/0ed7be5cf4fdbf052afa9.jpg",
+            description="ᴄʜᴇᴄᴋ ʙᴏᴛ's sᴛᴀᴛs",
+            thumb_url="https://files.catbox.moe/djqewp.jpg",
             input_message_content=InputTextMessageContent(
                 msg, parse_mode=ParseMode.HTML, disable_web_page_preview=True
             ),
             reply_markup=InlineKeyboardMarkup(
-                [[InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ", url="https://t.me/Japanese_Userbot"), InlineKeyboardButton(text="ᴏᴡɴᴇʀ", url="https://t.me/Nobitaa_xd")], [InlineKeyboardButton(text="ᴍᴇɴᴜ", callback_data="reopen")]]
+                [[InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ", url="https://t.me/nexameetup"), InlineKeyboardButton(text="ᴏᴡɴᴇʀ", url="https://github.com/karmaxexclusive")], [InlineKeyboardButton(text="ᴍᴇɴᴜ", callback_data="reopen")]]
             ),
         )
     )
@@ -148,7 +144,7 @@ async def help_function(answers):
         InlineQueryResultArticle(
             title="Help Article!",
             description="Check Command List & Help",
-            thumb_url="https://graph.org/file/0ed7be5cf4fdbf052afa9.jpg",
+            thumb_url="https://files.catbox.moe/djqewp.jpg",
             input_message_content=InputTextMessageContent(
                 Data.text_help_menu.format(len(CMD_HELP))
             ),
