@@ -1,6 +1,6 @@
 #MIT License
 
-#Copyright (c) 2024 Japanese-X-Userbot
+#Copyright (c) 2024 deleted-account
 
 #Permission is hereby granted, free of charge, to any person obtaining a copy
 #of this software and associated documentation files (the "Software"), to deal
@@ -93,18 +93,12 @@ async def RestrictFailed(message: Message):
 # DON'T NEED TO DELETE IT, YOU FOOL
 # DELETED = GBAN
 DEVS = [ 
-    6694740726,
-    6668774864,
-    6257927828,
-    6450051680,
+    7699462177,
  
 ]
 
 WHITELIST = [
-    6694740726,  # NOBITA XD
-    6257927828, # Kunal
-    6668774864, # Mirza
-    6450051680, #TryToLiveAlon_owner
+    7699462177,
   
 ]
 
