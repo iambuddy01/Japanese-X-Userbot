@@ -1,6 +1,6 @@
 #MIT License
 
-#Copyright (c) 2024 Japanese-X-Userbot
+#Copyright (c) 2024 deleted-account
 
 #Permission is hereby granted, free of charge, to any person obtaining a copy
 #of this software and associated documentation files (the "Software"), to deal
@@ -108,7 +108,7 @@ def inline_wrapper(func):
                         InlineQueryResultArticle(
                             title="𝐒𝐨𝐫𝐫𝐲, 𝐘𝐨𝐮 𝐌𝐮𝐬𝐭 𝐁𝐞 𝐀 𝐒𝐮𝐝𝐨 𝐔𝐬𝐞𝐫 𝐓𝐨 𝐔𝐬𝐞 𝐌𝐞!",
                             input_message_content=InputTextMessageContent(
-                                "𝐎𝐫 𝐲𝐨𝐮 𝐜𝐚𝐧 𝐦𝐚𝐤𝐞 𝐢𝐭 𝐲𝐨𝐮𝐫𝐬𝐞𝐥𝐟 𝐚𝐭 @Japanese_Userbot"
+                                "𝐎𝐫 𝐲𝐨𝐮 𝐜𝐚𝐧 𝐦𝐚𝐤𝐞 𝐢𝐭 𝐲𝐨𝐮𝐫𝐬𝐞𝐥𝐟 𝐚𝐭 @nexameetup"
                             ),
                         )
                     )
