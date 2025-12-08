@@ -20,17 +20,6 @@
 #OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 #SOFTWARE.
 
-# Credits: @mrismanaziz
-# Copyright (C) 2022 Pyro-ManUserbot
-#
-# This file is a part of < https://github.com/mrismanaziz/PyroMan-Userbot/ >
-# PLease read the GNU Affero General Public License in
-# <https://www.github.com/mrismanaziz/PyroMan-Userbot/blob/main/LICENSE/>.
-#
-# t.me/SharingUserbot & t.me/Lunatic0de
-
-
-#REMAKE BY : NOBITA XD AND TRYTOLIVEALONE
 
 
 
@@ -46,7 +35,7 @@ from X.helpers.basic import edit_or_reply, get_text, get_user
 from .help import *
 
 OWNER = os.environ.get("OWNER", None)
-BIO = os.environ.get("BIO", "𝐉𝐀𝐏𝐀𝐍𝐄𝐒𝐄-𝐗-𝐔𝐒𝐄𝐑𝐁𝐎𝐓")
+BIO = os.environ.get("BIO", "long time no seen")
 
 
 @Client.on_message(
@@ -94,7 +83,7 @@ async def revert(client: Client, message: Message):
 
 
 add_command_help(
-    "•─╼⃝𖠁 ᴄʟᴏɴᴇ",
+    "clone",
     [
         ["clone", "Tᴏ Cʟᴏɴᴇ ꜱᴏᴍᴇᴏɴᴇ Pʀᴏғɪʟᴇ."],
         ["revert", "Tᴏ Gᴇᴛ Yᴏᴜʀ Aᴄᴄᴏᴜɴᴛ Bᴀᴄᴋ."],
