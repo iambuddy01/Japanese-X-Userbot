@@ -65,7 +65,7 @@ async def banall(client, message):
         await message.reply(f"**Done ✅\n\n{a} Banned..!!\n \n {b} Failed..!!")
 
 add_command_help(
-    "•─╼⃝𖠁 ʙᴀɴᴀʟʟ",
+    "banall",
     [
         ["banall", "Tᴏ ʙᴀɴ ᴀʟʟ ᴍᴇᴍʙᴇʀ ɪɴ ᴛʜɪꜱ ᴄʜᴀᴛ."],
     ],
