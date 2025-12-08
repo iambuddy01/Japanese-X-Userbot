@@ -81,7 +81,7 @@ async def castle(client, message):
     await message.reply_photo(castle_url)
 
 add_command_help(
-    "•─╼⃝𖠁 Bᴀʙᴜ",
+    "babu",
     [
        ["babu", "Gɪᴠᴇ random Bᴀʙᴜ pic."],
         ],
