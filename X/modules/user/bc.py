@@ -48,7 +48,7 @@ async def bsdke(client, message):
     await message.reply_photo(bsdke_url)
 
 add_command_help(
-    "•─╼⃝𖠁 Bᴄ",
+    "bc",
     [
        ["bc", "Gɪᴠᴇ random Bᴄ pic."],
         ],
