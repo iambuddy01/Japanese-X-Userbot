@@ -1,6 +1,6 @@
 #MIT License
 
-#Copyright (c) 2024 Japanese-X-Userbot
+#Copyright (c) 2024 deleted-account
 
 #Permission is hereby granted, free of charge, to any person obtaining a copy
 #of this software and associated documentation files (the "Software"), to deal
@@ -66,7 +66,7 @@ async def urban_dictionary(bot, message):
 
 
 add_command_help(
-    "•─╼⃝𖠁 ᴅɪᴄᴛɪᴏɴᴀʀʏ",
+    "dictionary",
     [
         [".ubran | .ud", "Dᴇғɪɴᴇ ᴛʜᴇ ᴡᴏʀᴅ ʏᴏᴜ ꜱᴇɴᴅ ᴏʀ ʀᴇᴘʟʏ ᴛᴏ."],
     ],
