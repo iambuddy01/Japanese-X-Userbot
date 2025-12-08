@@ -1,6 +1,6 @@
 #MIT License
 
-#Copyright (c) 2024 Japanese-X-Userbot
+#Copyright (c) 2024 deleted-account
 
 #Permission is hereby granted, free of charge, to any person obtaining a copy
 #of this software and associated documentation files (the "Software"), to deal
@@ -46,7 +46,7 @@ async def demon(client, message):
     await message.reply_photo(demon_url)
 
 add_command_help(
-    "•─╼⃝𖠁 Yᴀᴇ ᴍɪᴋᴏ",
+    "miko",
     [
        ["miko", "Gɪᴠᴇ random Yᴀᴇ ᴍɪᴋᴏ pic."],
         ],
