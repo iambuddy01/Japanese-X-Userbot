@@ -96,7 +96,7 @@ async def autopic_zaid(_, m):
 
 
 add_command_help(
-    "•─╼⃝𖠁 Aᴜᴛᴏ ᴘɪᴄ",
+    "autopic",
     [
        ["autopic", "Cʜᴀɴɢᴇ ʏᴏᴜʀ DP ᴇᴠᴇʀʏ 5 ᴍɪɴᴜᴛᴇ Iғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ sᴛᴏᴘ ᴀᴜᴛᴏ ᴘɪᴄ ᴛʀʏ ᴀᴜᴛᴏᴘɪᴄ ᴀɢᴀɪɴ ᴛᴏ sᴛᴏᴘ ɪᴛ."],
         ],
