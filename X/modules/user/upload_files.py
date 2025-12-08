@@ -1,6 +1,6 @@
 #MIT License
 
-#Copyright (c) 2024 Japanese-X-Userbot
+#Copyright (c) 2024 deleted-account
 
 #Permission is hereby granted, free of charge, to any person obtaining a copy
 #of this software and associated documentation files (the "Software"), to deal
@@ -19,10 +19,7 @@
 #LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 #OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 #SOFTWARE.
-
-# Credits: Athfan Khaleel
-# Copyright (C) https://github.com/athphane/userbot
-#REMAKE BY NOBITA XD AND TRYTOLIVEALONE 
+ 
 
 
 
@@ -56,7 +53,7 @@ async def upload_helper(bot: Client, message: Message):
 
 
 add_command_help(
-    "•─╼⃝𖠁 Uᴘʟᴏᴀᴅ",
+    "upload",
     [
         [".upload", "Uᴘʟᴏᴀᴅ ᴛʜᴇ ғɪʟᴇ ᴛᴏ ᴛᴇʟᴇɢʀᴀᴍ ғʀᴏᴍ ᴛʜᴇ ɢɪᴠᴇɴ ꜱʏꜱᴛᴇᴍ ғɪʟᴇ ᴘᴀᴛʜ."],
     ],
